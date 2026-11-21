@@ -4,6 +4,8 @@ Juxbox is a local-first developer utility workbench for macOS. It puts everyday 
 
 Your input and output stay on your device while you work. No account or cloud service is required.
 
+![Juxbox overview](assets/juxbox-overview.png)
+
 ## Install
 
 ### Homebrew Cask
